@@ -1,7 +1,6 @@
 {
   "name": "helper-tools",
-  "homepage": "https://augustark.github.io/helper-tools/",
-  "private": true,
+  "homepage": "https://augustark.github.io/helper-tools",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
